@@ -1,4 +1,4 @@
-#1 - import library
+#1 - Import library
 import pygame
 from pygame.locals import *
 import math
